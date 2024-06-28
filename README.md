@@ -32,7 +32,7 @@ NextAuthKing is a robust authentication solution built using Next.js. It provide
 ![Laptop Login Page](./demoimages/Laptoploginpage.png)
 
 **Profile Page**
-![Laptop Profile Page](./demoimages/Laptopprofilepage.png)
+![Laptop Profile Page](./demoimages/Laptoprofilepage.png)
 
 ### Mobile View
 
