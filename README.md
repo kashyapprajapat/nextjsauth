@@ -10,6 +10,8 @@
 6. [Configuration](#configuration)
 7. [Usage](#usage)
 
+## Live Link --  https://nextjsauth-one.vercel.app/login
+
 ## Introduction
 
 NextAuthKing is a robust authentication solution built using Next.js. It provides a seamless and secure way to manage user authentication, featuring both traditional email/password login and OAuth integrations. With a focus on simplicity and performance, NextAuthKing aims to streamline the authentication process for developers and users alike.
