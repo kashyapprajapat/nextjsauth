@@ -9,8 +9,6 @@
 5. [Installation](#installation)
 6. [Configuration](#configuration)
 7. [Usage](#usage)
-8. [Folder Structure](#folder-structure)
-9. [Forking the Repository](#forking-the-repository)
 
 ## Introduction
 
